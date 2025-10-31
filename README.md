@@ -1,6 +1,6 @@
-# 🌐 Alanım.net — Web Hosting & Dijital Hizmetler
+# 🌐 alanim.net — Web Hosting & Dijital Hizmetler
 
-**Alanım.net**, Türkiye’de web projeleri geliştiren bir teknoloji girişimidir.  
+**alanim.net**, Türkiye’de web projeleri geliştiren bir teknoloji girişimidir.  
 Amacımız; kullanıcılara hızlı, güvenli ve kolay kullanılabilir web çözümleri sunmaktır.
 
 ---
